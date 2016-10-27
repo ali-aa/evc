@@ -1,0 +1,2 @@
+exec:
+	gcc -Wall main_01_14.c sim_01_14.c evc_01_14.c -o evc -lm
